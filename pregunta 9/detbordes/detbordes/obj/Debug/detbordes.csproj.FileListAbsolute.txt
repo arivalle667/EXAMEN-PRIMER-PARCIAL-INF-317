@@ -1,0 +1,10 @@
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\bin\Debug\detbordes.exe.config
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\bin\Debug\detbordes.exe
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\bin\Debug\detbordes.pdb
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\obj\Debug\detbordes.csproj.AssemblyReference.cache
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\obj\Debug\detbordes.Form1.resources
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\obj\Debug\detbordes.Properties.Resources.resources
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\obj\Debug\detbordes.csproj.GenerateResource.cache
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\obj\Debug\detbordes.csproj.CoreCompileInputs.cache
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\obj\Debug\detbordes.exe
+C:\Users\VALLE-PC\source\repos\detbordes\detbordes\obj\Debug\detbordes.pdb
