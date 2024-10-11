@@ -1,0 +1,10 @@
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\bin\Debug\calculadora1.exe.config
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\bin\Debug\calculadora1.exe
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\bin\Debug\calculadora1.pdb
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\obj\Debug\calculadora1.csproj.AssemblyReference.cache
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\obj\Debug\calculadora1.Form1.resources
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\obj\Debug\calculadora1.Properties.Resources.resources
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\obj\Debug\calculadora1.csproj.GenerateResource.cache
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\obj\Debug\calculadora1.csproj.CoreCompileInputs.cache
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\obj\Debug\calculadora1.exe
+C:\Users\VALLE-PC\source\repos\calculadora1\calculadora1\obj\Debug\calculadora1.pdb
